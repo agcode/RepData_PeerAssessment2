@@ -79,3 +79,20 @@ NOTE: If you are having trouble connecting with RPubs due to proxy-related or ot
 # Submitting Your Assignment
 
 In order to submit this assignment, you must copy the RPubs URL for your completed data analysis document in to the peer assessment question.
+
+# Pushing to github
+
+The following steps were used to push to github
+
+* Create new repository in github
+* copy the clone URL
+* navigate to desktop on local computer
+* git clone https://github.com/agcode/RepData_PeerAssessment2.git
+* copy files to the new folder RepData_PeerAssessment2, that has been created on the desktop
+* cd RepData_PeerAssessment2
+* git add .
+* git commit -m 'Assignment done'
+* git push -u origin master
+  
+
+
